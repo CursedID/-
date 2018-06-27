@@ -1,7 +1,6 @@
 /*全局设置*/
 *{
     text-decoration: none;
-    color: white;
 }
 
 .wrap{
@@ -16,7 +15,7 @@ margin: 0px;
 }
 
 .daoHangTiao{
-    background-color: black;
+    background-color: yellow;
     text-align: center;
 }
 
@@ -36,12 +35,16 @@ margin: 0px;
 .hengFu{
     text-align: center;
     text-shadow: 2px 2px 2px black;
-    background-image: url("../image/K.jpg");
+    background-image: url("../image/K.png");
     background-position: center;
-    padding: 110px;
+    padding: 300px;
     margin: 0px;
 }
 
+.red a{
+    
+    color: red;
+}
 .zhengWen{
     text-align: center;
     padding: 50px;
@@ -52,7 +55,7 @@ margin: 0px;
 }
 .yeJiao{
     text-align: center;
-    background-color: black;
+    background-color: yellow;
 }
 
 .zhengWen h4,.zhengWen h6{
